@@ -5,71 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46947cd9-d357-47f9-a280-c293af1f43ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/7.6/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/7.6/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/8.1-20230210132027+0000/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/8.1-20230210132027+0000/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/8.1-20230210132027+0000/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/8.1-20230210132027+0000/checksums/sha256-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/8.1-20230210132027+0000/checksums/sha512-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/8.1-20230210132027+0000/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/8.1-20230210132027+0000/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/8.1-20230210132027+0000/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/8.1-20230210132027+0000/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/8.1-20230210132027+0000/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/8.1-20230210132027+0000/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/8.1-20230210132027+0000/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/8.1-20230210132027+0000/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/workspace-id.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/.gradle/workspace-id.txt.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-plugin/build/libs/greeting-plugin-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/greeting-plugin/build/libs/greeting-plugin-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/81f80dcfec183343c922398ffd94ab4266b582ed/classes/org/gradle/accessors/dm/LibrariesForLibs$BundleAccessors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/81f80dcfec183343c922398ffd94ab4266b582ed/classes/org/gradle/accessors/dm/LibrariesForLibs$PluginAccessors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/81f80dcfec183343c922398ffd94ab4266b582ed/classes/org/gradle/accessors/dm/LibrariesForLibs$VersionAccessors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/81f80dcfec183343c922398ffd94ab4266b582ed/classes/org/gradle/accessors/dm/LibrariesForLibs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/81f80dcfec183343c922398ffd94ab4266b582ed/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$BundleAccessors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/81f80dcfec183343c922398ffd94ab4266b582ed/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$PluginAccessors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/81f80dcfec183343c922398ffd94ab4266b582ed/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$VersionAccessors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/81f80dcfec183343c922398ffd94ab4266b582ed/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/81f80dcfec183343c922398ffd94ab4266b582ed/sources/org/gradle/accessors/dm/LibrariesForLibs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/81f80dcfec183343c922398ffd94ab4266b582ed/sources/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/86d676ff8d9e790bda84e53af026f7b33dcc89bb/classes/org/gradle/accessors/dm/LibrariesForLibs$BundleAccessors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/86d676ff8d9e790bda84e53af026f7b33dcc89bb/classes/org/gradle/accessors/dm/LibrariesForLibs$PluginAccessors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/86d676ff8d9e790bda84e53af026f7b33dcc89bb/classes/org/gradle/accessors/dm/LibrariesForLibs$VersionAccessors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/86d676ff8d9e790bda84e53af026f7b33dcc89bb/classes/org/gradle/accessors/dm/LibrariesForLibs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/86d676ff8d9e790bda84e53af026f7b33dcc89bb/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$BundleAccessors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/86d676ff8d9e790bda84e53af026f7b33dcc89bb/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$PluginAccessors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/86d676ff8d9e790bda84e53af026f7b33dcc89bb/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$VersionAccessors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/86d676ff8d9e790bda84e53af026f7b33dcc89bb/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/86d676ff8d9e790bda84e53af026f7b33dcc89bb/sources/org/gradle/accessors/dm/LibrariesForLibs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/86d676ff8d9e790bda84e53af026f7b33dcc89bb/sources/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/8.1-20230210132027+0000/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/workspace-id.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-greeting-app/.gradle/workspace-id.txt.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +107,7 @@
       <updated>1676047135070</updated>
       <workItem from="1676047136190" duration="2073000" />
       <workItem from="1676292493668" duration="5551000" />
-      <workItem from="1676303149111" duration="987000" />
+      <workItem from="1676303149111" duration="1395000" />
     </task>
     <servers />
   </component>
